@@ -7,11 +7,11 @@ const App = () => <PersonList />;
 const PersonList = () => {
   const listOfPerson = [
     {
-      name:"Morisson", job:"Web Developper", img:"25", sex:"men"
+      name:"Morisson", job:"Web Developer", img:"25", sex:"men"
     }
     ,
     {
-      name:"Morissen", job:"Developper", img:"34", sex:"men"
+      name:"Morissen", job:"Developer", img:"34", sex:"men"
     }
     ,
     {
